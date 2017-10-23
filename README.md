@@ -24,4 +24,4 @@
 * Dragon skills are swapped depending on knight skills and weather
 * Dragon data is put to game api to solve battle
 * Finally results are displayed whether battle was victorious or not
-* Steps are logged into different 'battle.log' file
+* Game steps are logged in 'battle.log' file
