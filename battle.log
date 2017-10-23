@@ -1,0 +1,36 @@
+2017-10-23 21:02:27,073 - helper - INFO - Fetching game data from game API with id: 92159
+2017-10-23 21:02:28,028 - helper - INFO - Knight Sir. Raymond Baldwin of Ontario is starting to conquer our kingdom
+2017-10-23 21:02:28,028 - helper - INFO - Knight has following skills: {'armor': 3, 'attack': 3, 'agility': 7, 'endurance': 7}
+2017-10-23 21:02:28,496 - helper - INFO - Dragon skills: {'fireBreath': 6, 'scaleThickness': 2, 'clawSharpness': 3, 'wingStrength': 9}
+2017-10-23 21:02:28,637 - helper - INFO - STATUS: Victory, Message:  Dragon was successful in a glorious battle:
+2017-10-23 21:02:29,637 - helper - INFO - WEATHER FORECAST:: Another day of everyday normal regular weather, business as usual, unless it's going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+2017-10-23 21:02:29,778 - helper - INFO - Fetching game data from game API with id: 1554384
+2017-10-23 21:02:30,714 - helper - INFO - Knight Sir. Victor Poole of Ontario is starting to conquer our kingdom
+2017-10-23 21:02:30,714 - helper - INFO - Knight has following skills: {'armor': 2, 'attack': 5, 'agility': 8, 'endurance': 5}
+2017-10-23 21:02:31,167 - helper - INFO - Dragon skills: {'fireBreath': 7, 'scaleThickness': 4, 'clawSharpness': 4, 'wingStrength': 5}
+2017-10-23 21:02:31,309 - helper - INFO - STATUS: Victory, Message:  Knight was useless in the fog.:
+2017-10-23 21:02:32,311 - helper - INFO - WEATHER FORECAST:: It's very difficult to foresee what the day will bring, it's mostly because of the fog that is going to be dominant all over the Kingdom, seriously affecting overall visibility and usefulness of seeing eye dogs. All business and governing activities have been postponed due to transparency issues and also due to some pretty serious corruption, which is unrelated to the weather conditions.
+2017-10-23 21:02:32,450 - helper - INFO - Fetching game data from game API with id: 5224368
+2017-10-23 21:02:33,387 - helper - INFO - Knight Sir. Vernon Wheeler of Manitoba is starting to conquer our kingdom
+2017-10-23 21:02:33,387 - helper - INFO - Knight has following skills: {'armor': 8, 'attack': 1, 'agility': 5, 'endurance': 6}
+2017-10-23 21:02:33,855 - helper - INFO - Dragon skills: {'fireBreath': 5, 'scaleThickness': 1, 'clawSharpness': 10, 'wingStrength': 4}
+2017-10-23 21:02:33,980 - helper - INFO - STATUS: Victory, Message:  Dragon was successful in a glorious battle:
+2017-10-23 21:02:34,980 - helper - INFO - WEATHER FORECAST:: Another day of everyday normal regular weather, business as usual, unless it's going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+2017-10-23 22:11:10,105 - helper - INFO - Fetching game data from game API with id: 7326246
+2017-10-23 22:11:11,052 - helper - INFO - Knight Sir. Barry Ray of Yukon is starting to conquer our kingdom
+2017-10-23 22:11:11,052 - helper - INFO - Knight has following skills: {'armor': 6, 'attack': 1, 'agility': 6, 'endurance': 7}
+2017-10-23 22:11:11,513 - helper - INFO - Dragon skills: {'fireBreath': 9, 'scaleThickness': 1, 'clawSharpness': 5, 'wingStrength': 5}
+2017-10-23 22:11:11,654 - helper - INFO - STATUS: Victory, Message:  Dragon was successful in a glorious battle:
+2017-10-23 22:11:12,654 - helper - INFO - WEATHER FORECAST:: Another day of everyday normal regular weather, business as usual, unless it's going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+2017-10-23 22:11:12,793 - helper - INFO - Fetching game data from game API with id: 2585805
+2017-10-23 22:11:13,747 - helper - INFO - Knight Sir. Ethan Roy of Newfoundland and Labrador is starting to conquer our kingdom
+2017-10-23 22:11:13,747 - helper - INFO - Knight has following skills: {'armor': 8, 'attack': 3, 'agility': 6, 'endurance': 3}
+2017-10-23 22:11:14,216 - helper - INFO - Dragon skills: {'fireBreath': 2, 'scaleThickness': 3, 'clawSharpness': 10, 'wingStrength': 5}
+2017-10-23 22:11:14,361 - helper - INFO - STATUS: Victory, Message:  Dragon was successful in a glorious battle:
+2017-10-23 22:11:15,361 - helper - INFO - WEATHER FORECAST:: Another day of everyday normal regular weather, business as usual, unless it's going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
+2017-10-23 22:11:15,486 - helper - INFO - Fetching game data from game API with id: 6737078
+2017-10-23 22:11:16,430 - helper - INFO - Knight Sir. Hunter Briggs of Nova Scotia is starting to conquer our kingdom
+2017-10-23 22:11:16,430 - helper - INFO - Knight has following skills: {'armor': 7, 'attack': 4, 'agility': 2, 'endurance': 7}
+2017-10-23 22:11:16,898 - helper - INFO - Dragon skills: {'fireBreath': 6, 'scaleThickness': 3, 'clawSharpness': 9, 'wingStrength': 2}
+2017-10-23 22:11:17,039 - helper - INFO - STATUS: Victory, Message:  Dragon was successful in a glorious battle:
+2017-10-23 22:11:18,039 - helper - INFO - WEATHER FORECAST:: Another day of everyday normal regular weather, business as usual, unless it's going to be like the time of the Great Paprika Mayonnaise Incident of 2014, that was some pretty nasty stuff.
