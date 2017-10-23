@@ -10,8 +10,8 @@
 
 ## Run program
 * Open bash console and type:
-    `pip install -r requirements.txt` to install requirements
-    `python start_battle.py`
+  * install requirements with `pip install -r requirements.txt`
+  * start game by typing `python start_battle.py`
 
 ## Code explanation
 
